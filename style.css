@@ -1,7 +1,37 @@
+body{
+    background-color: rgb(222, 104, 222);
+}
+
+h1{
+    color: hsl(45, 100%, 60%);
+    font-size: 3rem;
+    font-family: 'Great Vibes', cursive;
+}
+
+p{
+    font-size: 1.5rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar{
+    color: aquamarine;
+    font-size: large;
+}
+
 .box {
     background-color: #1a1a2e;
     color: rgb(225, 223, 186);
     font-family: 'Playfair Display', serif;
     text-align: center;
     padding: 20px;
+}
+
+button{
+    cursor: pointer;
+    color: white;
+    background-color: rgba(255, 165, 0, 0.8);
 }
